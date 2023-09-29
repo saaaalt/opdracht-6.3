@@ -1,0 +1,7 @@
+h1, th{
+    font-weight: bold;
+    color: rgb(255, 140, 0);
+}
+table, th, td{
+    border: 1px solid black;
+}
